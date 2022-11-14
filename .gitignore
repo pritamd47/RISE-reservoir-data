@@ -1,2 +1,6 @@
 .DS_Store
 data/rest/
+data/US-RISE/
+*dask-worker-space*
+*.nc
+*.csv
